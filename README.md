@@ -1,2 +1,2 @@
-# eesti_kaeparast
-Eesti käepärast
+# Eesti käepärast
+Simple app gathering data about public transit all across Estonia
